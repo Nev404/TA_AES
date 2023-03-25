@@ -159,7 +159,7 @@ if (!isset($admin_id)) {
                   <div class="card-body">
                      <figure class="text-center">
                         <blockquote class="blockquote">
-                           <p class="h5">Halo, </p>
+                           <p class="h5">Halo, sdsdsdsdsd</p>
                         </blockquote>
                         <figcaption>
                            Selamat Datang di Aplikasi<cite title="Source Title">Kriptografi AES 128</cite>
